@@ -6,6 +6,6 @@ CHEST_OFFSET=0x3DA
 
 
 {
-  "user": "your_username",
-  "pass": "your_password"
+  "user": "admin",
+  "pass": "admin"
 }
