@@ -3,3 +3,9 @@ HEAD_OFFSET=0x76
 CHEST_OFFSET=0x3DA
 
 2026-09-10 23:59:59
+
+
+{
+  "user": "your_username",
+  "pass": "your_password"
+}
